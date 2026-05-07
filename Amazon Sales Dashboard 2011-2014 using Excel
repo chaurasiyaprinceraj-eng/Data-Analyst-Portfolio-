@@ -1,0 +1,53 @@
+Amazon Sales Dashboard 2011-2014
+Project Overview
+
+This project is an interactive Amazon Sales Dashboard created using Microsoft Excel and Power Pivot to analyze sales performance, profitability, customer activity, and business growth trends from 2011–2014.
+
+The dashboard transforms raw sales data into meaningful business insights using KPI reporting, interactive filters, and data visualization techniques.
+
+Dashboard Insights
+Total Sales reached 12.6M, showing strong overall business performance.
+Total Profit generated was 1.47M, indicating healthy profitability.
+Total Orders recorded were 5.1K, reflecting consistent customer purchasing activity.
+Profit Margin stood at 11.6%, highlighting stable operational efficiency.
+Business Insights
+Central region generated the highest sales among all regions.
+Technology category contributed the highest revenue share.
+Sales increased consistently from 2011 to 2014, showing positive business growth trends.
+Dashboard Features
+KPI Cards
+Total Sales
+Total Profit
+Total Orders
+Profit Margin
+Interactive Slicers
+Year Filter
+Region Filter
+Category Filter
+Visualizations
+Region-wise Sales Analysis
+Category-wise Sales Distribution
+Year-wise Sales Trend
+Tools & Technologies Used
+Microsoft Excel
+Power Pivot
+Pivot Tables
+Pivot Charts
+KPI Indicators
+Data Visualization
+Skills Demonstrated
+Dashboard Design
+Business Analysis
+KPI Reporting
+Data Visualization
+Interactive Reporting
+Analytical Thinking
+Project Preview
+
+(Amazon Sales Dashboard 2011-2014.png)
+
+Author
+Prince Chaurasiya
+
+LinkedIn: https://www.linkedin.com/in/prince-chaurasiya-85a67922b/
+GitHub: https://github.com/chaurasiyaprinceraj-eng
